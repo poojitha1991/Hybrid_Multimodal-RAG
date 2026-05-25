@@ -166,3 +166,5 @@ plt.tight_layout()
 plt.savefig('rag_architecture.png', dpi=300, bbox_inches='tight', facecolor='white')
 print("Architecture diagram saved as 'rag_architecture.png'")
 plt.show()
+
+##EOF
